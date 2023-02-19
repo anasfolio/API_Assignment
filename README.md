@@ -1,5 +1,5 @@
 For the API suite i created framework on KARATE 
-And used KARATE because it support of Gherkin and fast execution with minimum dependencies
+and i used KARATE because it support of Gherkin and fast execution with minimum dependencies
 STEPS:
 1- Created Maven project
 2- Adding libraries/dependencies on pom.xml
